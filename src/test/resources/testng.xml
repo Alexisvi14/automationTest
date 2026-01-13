@@ -2,7 +2,7 @@
 <suite name="Automation Suite">
     <test name="Web and API Tests">
         <classes>
-            <class name="IntTest"/>
+            <class name="ChallengeTest"/>
         </classes>
     </test>
 </suite>
